@@ -12,6 +12,10 @@
 
 > 安装好上述的东西，我们基本配置好了python的编程环境
 
+[Git软件安装和项目clone简明教程] (http://www.runoob.com/w3cnote/git-guide.html)
+
+[anaconda安装和与pycharm连接](https://www.jianshu.com/p/eaee1fadc1e9)
+
 ***
 
 ## 20181216学习内容更新
