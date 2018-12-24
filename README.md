@@ -146,5 +146,27 @@
 > 在本节中我们学习了写python的函数，已经初步体会了函数的强大。
 > 在本周末我们依旧会学习DataFrame和函数，掌握函数编程的一般知识
 
+***
+
+> 上周末因为准备今天的组会汇报内容停更了，从今晚继续开始
+
+1. 向python的函数中传递列表
+
+2. 向python中传递任意数量的实参
+
+3. 调用模块中的函数
+
+### 附注：
+
+1. 两种导入别的模块中函数的方法：
+    > from pandas import Series, DataFrame
+    > import pandas as pd
+    > 第二种方法相当于将pandas模块打开，之后将所有函数复制过来，as则为这些函数创建了别名pd
+    > 第一种方法仅从pandas模块中导入Series函数和DataFrame函数
+
+
+
+
+
 
 
