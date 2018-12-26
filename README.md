@@ -187,6 +187,18 @@
     + icol、irow方法 : 根据整数位置选取行或列，并返回Series
     + get_value、set_value方法 : 根据行索引和列索引选取单个的值
 
+***
+
+## 20181226更新：继续学习pandas
+
+1. 对不同索引对象的算术运算和数据对齐
+
+2. 对DataFrame进行函数应用和映射 
+
+3. 数据的排序和排名
+
+3. [python中匿名函数的用法](https://blog.csdn.net/Jerry_1126/article/details/40105135)
+
 
 
 
