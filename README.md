@@ -249,6 +249,21 @@
 
 ## 20190101更新：python的异常处理和代码测试
 
+1. python的异常处理机制
+
+2. python的代码测试模块初步
+
+> 下面我们对unittest.TestCase类中的断言方法进行汇总
+
+|Methods|Explain|
+|------------------------|-----------------------|
+|assertEqual(a, b)|a==b|
+|assertNotEqual(a, b)|a!=b|
+|assertTrue(x)|x == True|
+|assertFalse(x)|x == False|
+|assertIn(item, list)|item in list|
+|assertNotIn(item, list)|item not in list|
+
 
 
 
