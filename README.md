@@ -264,6 +264,16 @@
 |assertIn(item, list)|item in list|
 |assertNotIn(item, list)|item not in list|
 
+***
+
+## 20190102更新：pandas包继续学习
+
+1. Series和DataFrame的层次化索引：低维度处理高维度数据，**类似于数据透视表的操作**
+
+2. 层次化索引重排分层次序，进行不同级别的汇总统计
+
+3. DataFrame的列和行索引的相互转换
+
 
 
 
