@@ -266,13 +266,25 @@
 
 ***
 
-## 20190102更新：pandas包继续学习
+## 20190102更新：pandas模块继续学习
 
 1. Series和DataFrame的层次化索引：低维度处理高维度数据，**类似于数据透视表的操作**
 
 2. 层次化索引重排分层次序，进行不同级别的汇总统计
 
 3. DataFrame的列和行索引的相互转换
+
+***
+
+## 20190103更新：numpy模块学习
+
+numpy中的多维数组对象——ndarray（我将其记为n-dimentional array）
+    + 如何创建ndarray
+    + ndarray的数据类型
+    + ndarray数组的广播机制（broadcasting）初步实例
+    + 多维ndarray的切片和索引
+
+> 今天的任务有点儿多，晚上就先更新到这里，明天从更复杂布尔型索引进行介绍
 
 
 
