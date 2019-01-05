@@ -290,6 +290,18 @@ numpy中的多维数组对象——ndarray（我将其记为n-dimentional array）
 
 > 今天的任务有点儿多，晚上就先更新到这里，明天从更复杂布尔型索引进行介绍
 
+## 20190105更新：采用matplotlib进行python数据可视化
+
+1. 安装matplotlib
+
+2. 绘制简单折线图：plot(x,  y, linewidth = 5)
+
+3. 绘制简单散点图 ：plt.scatter(x, y)
+
+4. [散点图的颜色映射](https://matplotlib.org/tutorials/colors/colors.html)：颜色可额外为数据图增加一个维度的信息
+
+## 20190106更新：采用matplotlib生成随机漫步的图像
+
 
 
 
