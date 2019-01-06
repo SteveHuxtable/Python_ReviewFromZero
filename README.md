@@ -300,7 +300,16 @@ numpy中的多维数组对象——ndarray（我将其记为n-dimentional array）
 
 4. [散点图的颜色映射](https://matplotlib.org/tutorials/colors/colors.html)：颜色可额外为数据图增加一个维度的信息
 
-## 20190106更新：采用matplotlib生成随机漫步的图像
+## 20190106更新：实例学习——采用matplotlib生成随机漫步的图像
+
+1. [什么是随机漫步？](https://www.bilibili.com/video/av19283960/) ：这个介绍视频有意思
+
+2. 用随机函数choice()从列表中抽取随机数
+
+3. 用matplotlib模块绘制随机漫步图
+
+4. [学习用pypal创建图表](http://www.pygal.org/) 
+    + [如何在anaconda中安装pygal模块](https://anaconda.org/akode/pygal)
 
 
 
