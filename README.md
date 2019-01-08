@@ -311,6 +311,19 @@ numpy中的多维数组对象——ndarray（我将其记为n-dimentional array）
 4. [学习用pypal创建图表](http://www.pygal.org/) 
     + [如何在anaconda中安装pygal模块](https://anaconda.org/akode/pygal)
 
+***
+
+## 20190108更新：数据下载、导入/继续数据可视化
+
+1. 如何读取csv文件与迭代器初识
+
+2. 对csv文件内容的进一步详细打印
+
+3. 用datetime模块处理日期：[datetime模块中格式的实参](http://blog.51cto.com/10616534/1947673)
+
+***
+
+## 20190109更新：JSON格式数据的处理及数据可视化
 
 
 
